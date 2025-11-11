@@ -1,1 +1,12 @@
-
+{
+  "name": "svg-card-vercel",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+    },
+  "dependencies": {},
+  "devDependencies": {}
+}
